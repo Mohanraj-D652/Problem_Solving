@@ -7,11 +7,7 @@ class main {
                 System.out.print(j+" ");
             }
             System.out.println("");
-        }
-        
-
-
-        
+        } 
 
     }
 }
